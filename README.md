@@ -11,3 +11,4 @@ Use Retrofit2 & RxJava, Dagger2 together with a Clean Architecture.
 * [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [okhttp](https://github.com/square/okhttp)
 * [retrofit](https://github.com/square/retrofit)
+* [android-gif-drawable](https://github.com/koral--/android-gif-drawable)
