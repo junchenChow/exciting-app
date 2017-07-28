@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 65,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 65,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 64,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 64,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 55,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 55,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2980,
+                    "endColumn": 51,
+                    "endOffset": 3027
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2980,
+                        "endColumn": 51,
+                        "endOffset": 3027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3032,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3318
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3032,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3323,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3323,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3478
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <include layout="@layout/view_card_content_voice_main" />
+
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="20dp"
+        app:rv_centered="true"
+        app:rv_color="@color/black"
+        app:rv_rippleDuration="200"
+        app:rv_type="simpleRipple">
+
+        <ImageView
+            android:id="@+id/iv_save_local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/btn_download_normal"
+            android:visibility="gone" />
+    </com.andexert.library.RippleView>
+</FrameLayout>

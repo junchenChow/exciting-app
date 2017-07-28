@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 侧滑栏内容通用高度 -->
+    <dimen name="left_layout_heiht">44.0dp</dimen>
+
+    <dimen name="left_layout_marght_left">10.0dp</dimen>
+
+    <dimen name="left_layout_text_size">14.0dp</dimen>
+
+    <dimen name="main_menu_heiht">180dp</dimen>
+
+    <dimen name="editor_height">270dp</dimen>
+
+    <dimen name="editor_bg_height">130dp</dimen>
+
+    <dimen name="heights_540">270dp</dimen>
+    <dimen name="heights_960">480dp</dimen>
+    <dimen name="heights_720">360dp</dimen>
+
+
+    <dimen name="voice_main_menu_height">145dp</dimen>
+    <dimen name="voice_main_menu_height_w720">130dp</dimen>
+</resources>

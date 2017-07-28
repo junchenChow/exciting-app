@@ -1,0 +1,286 @@
+[
+    {
+        "outputFile": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 109,
+                        "endColumn": 57,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 65,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 234,
+                        "endColumn": 63,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 64,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 62,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 55,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 53,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2980,
+                    "endColumn": 51,
+                    "endOffset": 3027
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 51,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3032,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3318
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3323,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/VocieGif/mohosupportlib/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 109,
+                        "endColumn": 57,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 65,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 234,
+                        "endColumn": 63,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 64,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 62,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 55,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/hlv_attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 53,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2980,
+                    "endColumn": 51,
+                    "endOffset": 3027
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 51,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3032,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3318
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3323,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "/Users/zhoujunchen/Downloads/exciting-app/mohosupportlib/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

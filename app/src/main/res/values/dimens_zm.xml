@@ -1,0 +1,164 @@
+<resources>
+
+    <!-- 各种高度 -->
+    <dimen name="height_243dp">243dp</dimen>
+    <dimen name="height_625px">313dp</dimen>
+    <dimen name="height_414px">207dp</dimen>
+    <dimen name="height_350px">175dp</dimen>
+    <dimen name="height_340px">166dp</dimen>
+    <dimen name="height_300px">150dp</dimen>
+    <dimen name="height_280px">140dp</dimen>
+    <dimen name="height_244px">122dp</dimen>
+    <dimen name="height_224px">112dp</dimen>
+    <dimen name="height_220px">110dp</dimen>
+    <dimen name="height_200px">100dp</dimen>
+    <dimen name="height_180px">90dp</dimen>
+    <dimen name="height_160px">80dp</dimen>
+    <dimen name="height_154px">77dp</dimen>
+    <dimen name="height_150px">75dp</dimen>
+    <dimen name="height_140px">70dp</dimen>
+    <dimen name="height_130px">65dp</dimen>
+    <dimen name="height_121px">62.5dp</dimen>
+    <dimen name="height_540">270dp</dimen>
+    <dimen name="height_960">480dp</dimen>
+    <dimen name="height_720">360dp</dimen>
+
+
+    <dimen name="height_120px">60dp</dimen>
+    <dimen name="height_118px">59dp</dimen>
+    <dimen name="height_115px">58dp</dimen>
+    <dimen name="height_110px">55dp</dimen>
+    <dimen name="height_100px">50dp</dimen>
+    <dimen name="height_96px">48dp</dimen>
+    <dimen name="height_90px">45dp</dimen>
+    <dimen name="height_88px">44dp</dimen>
+    <dimen name="height_80px">40dp</dimen>
+    <dimen name="height_75px">38dp</dimen>
+    <dimen name="height_70px">35dp</dimen>
+    <dimen name="height_68px">34dp</dimen>
+    <dimen name="height_60px">30dp</dimen>
+    <dimen name="height_50px">25dp</dimen>
+    <dimen name="height_52px">26dp</dimen>
+    <dimen name="height_48px">24dp</dimen>
+    <dimen name="height_44px">22dp</dimen>
+    <dimen name="height_42px">21dp</dimen>
+    <dimen name="height_40px">20dp</dimen>
+    <dimen name="height_32px">16dp</dimen>
+    <dimen name="height_28px">14dp</dimen>
+    <dimen name="height_26px">13dp</dimen>
+    <dimen name="height_24px">12dp</dimen>
+    <dimen name="height_20px">10dp</dimen>
+    <dimen name="height_16px">8dp</dimen>
+    <dimen name="height_8px">4dp</dimen>
+    <dimen name="height_2px">1dp</dimen>
+    <dimen name="height_1px">1px</dimen>
+
+    <dimen name="margin_94px">47dp</dimen>
+    <dimen name="margin_88px">44dp</dimen>
+    <dimen name="margin_80px">40dp</dimen>
+    <dimen name="margin_50px">25dp</dimen>
+    <dimen name="margin_46px">23dp</dimen>
+    <dimen name="margin_40px">20dp</dimen>
+    <dimen name="margin_36px">18dp</dimen>
+    <dimen name="margin_32px">16dp</dimen>
+    <dimen name="margin_30px">15dp</dimen>
+    <dimen name="margin_26px">13dp</dimen>
+    <dimen name="margin_25px">13dp</dimen>
+    <dimen name="margin_24px">12dp</dimen>
+    <dimen name="margin_22px">11dp</dimen>
+    <dimen name="margin_20px">10dp</dimen>
+    <dimen name="margin_18px">9dp</dimen>
+    <dimen name="margin_17px">9dp</dimen>
+    <dimen name="margin_16px">8dp</dimen>
+    <dimen name="margin_15px">8dp</dimen>
+    <dimen name="margin_14px">7dp</dimen>
+    <dimen name="margin_12px">6dp</dimen>
+    <dimen name="margin_10px">5dp</dimen>
+    <dimen name="margin_8px">4dp</dimen>
+    <dimen name="margin_6px">3dp</dimen>
+    <dimen name="margin_4px">2dp</dimen>
+    <dimen name="margin_minus_6px">-3dp</dimen>
+    <dimen name="height_88dp">88dp</dimen>
+
+    <!-- 各种宽度 -->
+
+    <dimen name="width_180px">90dp</dimen>
+    <dimen name="width_140px">70dp</dimen>
+    <dimen name="width_109px">54.5dp</dimen>
+    <dimen name="width_100px">50dp</dimen>
+    <dimen name="width_60px">30dp</dimen>
+    <dimen name="width_48px">24dp</dimen>
+    <dimen name="width_2px">1dp</dimen>
+    <dimen name="width_1px">0.5dp</dimen>
+
+    <dimen name="txt_size_130px">65sp</dimen>
+    <dimen name="txt_size_80px">40sp</dimen>
+    <dimen name="txt_size_70px">35sp</dimen>
+    <dimen name="txt_size_60px">30sp</dimen>
+    <dimen name="txt_size_44px">22sp</dimen>
+    <dimen name="txt_size_42px">21sp</dimen>
+    <dimen name="txt_size_40px">20sp</dimen>
+    <dimen name="txt_size_36px">18sp</dimen>
+    <dimen name="txt_size_34px">17sp</dimen>
+    <dimen name="txt_size_32px">16sp</dimen>
+    <dimen name="txt_size_30px">15sp</dimen>
+    <dimen name="txt_size_28px">14sp</dimen>
+    <dimen name="txt_size_26px">13sp</dimen>
+    <dimen name="txt_size_24px">12sp</dimen>
+    <dimen name="txt_size_22px">11sp</dimen>
+    <dimen name="txt_size_20px">10sp</dimen>
+    <dimen name="txt_size_16px">8sp</dimen>
+    <dimen name="txt_size_18px">9sp</dimen>
+
+    <dimen name="img_single_size">288dp</dimen>
+    <dimen name="img_tri_small_size">144dp</dimen>
+
+    <dimen name="dis_0">0dp</dimen>
+    <dimen name="dis_1">1dp</dimen>
+
+
+    <dimen name="title_bar_size">44dp</dimen>
+
+    <dimen name="crop__bar_height">48dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+
+    <!-- camera -->
+    <dimen name="wp_sample_corner">6dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_shadow_size">12dp</dimen>
+
+    <dimen name="fab_scroll_threshold">4dp</dimen>
+    <dimen name="fab_elevation_lollipop">8dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+
+
+  <!-- <dimen name="take_photo_layout_contral_height">44dp</dimen> -->
+    <dimen name="take_photo_layout_margin">10dp</dimen>
+    <dimen name="take_photo_balance_text_height">22dp</dimen>
+    <dimen name="take_photo_balance_text_size">15sp</dimen>
+    <dimen name="take_photo_bottom_height">160dp</dimen>
+    <dimen name="take_photo_guide_layout_padding">15dp</dimen>
+    <dimen name="take_photo_guide_text_padding">20dp</dimen>
+    <dimen name="take_photo_guide_text_size">14sp</dimen>
+    <dimen name="take_photo_guide_img_bottom">40dp</dimen>
+    <dimen name="take_photo_guide_img_margin_top">-35dp</dimen>
+    <dimen name="clip_photo_bottom_height">48dp</dimen>
+    <dimen name="clip_photo_num_text_size">16sp</dimen>
+    <dimen name="clip_photo_num_text_drawpadding">3dp</dimen>
+    <dimen name="open_view_line_color_height">1dp</dimen>
+    <dimen name="select_photo_folder_layout_height">80dp</dimen>
+    <dimen name="select_photo_folder_img_height">60dp</dimen>
+    <dimen name="listview_divider_height">1px</dimen>
+    <dimen name="select_photo_top_text_height">34dp</dimen>
+
+
+    <dimen name="release_item_height">44dp</dimen>
+    <dimen name="release_edit_area_height">124dp</dimen>
+    <dimen name="release_edit_height">66dp</dimen>
+    <dimen name="release_edit_width">230dp</dimen>
+</resources>

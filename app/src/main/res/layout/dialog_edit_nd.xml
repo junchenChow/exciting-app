@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/bg_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent_50" />
+
+    <View
+        style="@style/view_divider_light_horizantal"
+        android:layout_below="@id/bg_view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_12px"
+        android:paddingTop="@dimen/margin_12px">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_30px"
+            android:layout_marginRight="@dimen/margin_30px">
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="@dimen/width_100px"
+                android:layout_height="@dimen/height_48px"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/btn_cancel_bg"
+                android:padding="@dimen/margin_10px"
+                android:text="@string/cancel"
+                android:textSize="@dimen/txt_size_20px" />
+
+            <TextView
+                android:id="@+id/tv_input"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/nd_dialog"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txt_size_32px" />
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="@dimen/width_100px"
+                android:layout_height="@dimen/height_48px"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/btn_main_menu_task"
+                android:padding="@dimen/margin_10px"
+                android:text="@string/finish"
+                android:textSize="@dimen/txt_size_20px" />
+
+        </FrameLayout>
+
+        <EditText
+            android:id="@+id/et_comment"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_200px"
+            android:layout_marginBottom="@dimen/margin_24px"
+            android:layout_marginLeft="@dimen/margin_30px"
+            android:layout_marginRight="@dimen/margin_30px"
+            android:layout_marginTop="@dimen/margin_24px"
+            android:background="@drawable/edittext_border"
+            android:gravity="left|top"
+            android:hint="@string/hint_nd_input"
+            android:imeOptions="actionDone"
+            android:minLines="5"
+            android:paddingLeft="@dimen/margin_20px"
+            android:paddingTop="@dimen/margin_10px"
+            android:singleLine="false"
+            android:src="@drawable/box_input"
+            android:textColor="@color/black"
+            android:textSize="@dimen/txt_size_28px" />
+
+    </LinearLayout>
+
+</RelativeLayout>

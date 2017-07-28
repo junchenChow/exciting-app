@@ -1,0 +1,19 @@
+ext {
+    configuration = [
+            package          : "com.buhuavoice.app",
+            buildToolsVersion: "25.0.2",
+            compileVersion   : 24,
+            minSdk           : 16,
+            targetSdk        : 22,
+            version_code     : 1,
+            version_name     : "1.0.0",
+            java_version     : "1.8"
+    ]
+
+    libraries = [
+            androidSupport         : "25.3.1",
+            androidConstraintLayout: "1.0.2",
+            retrofit               : "2.1.0",
+            eventbus               : "3.0.0"
+    ]
+}

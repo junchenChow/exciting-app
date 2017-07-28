@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:background="@drawable/dialog_radius_bg"
+        android:layout_width="280dp"
+        android:layout_height="319dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="发现新版本"
+            android:textColor="@color/yellow_title"
+            android:textSize="22sp" />
+
+        <View
+            android:id="@+id/title_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/yellow_title" />
+
+        <TextView
+            android:id="@+id/tv_start"
+            android:layout_width="125dp"
+            android:layout_height="45dp"
+            android:gravity="center"
+            android:background="@drawable/dialog_radius_yellow_bg"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="10dp"
+            android:foreground="?selectableItemBackground"
+            android:layout_marginBottom="5dp"
+            android:text="立即更新"
+            android:textColor="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="125dp"
+            android:layout_height="45dp"
+            android:gravity="center"
+            android:background="@drawable/dialog_radius_gray_bg"
+            android:foreground="?selectableItemBackground"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="以后再说"
+            android:textColor="@color/grey_97"
+            />
+
+        <LinearLayout
+            android:id="@+id/ll_msg"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:layout_alignTop="@+id/title_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:id="@+id/tv_version_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/grey_97" />
+
+            <TextView
+                android:id="@+id/tv_version_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textColor="@color/grey_97" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="更新内容"
+               android:layout_marginTop="15dp"
+               android:textColor="@color/yellow_title"
+               />
+
+            <TextView
+                android:id="@+id/tv_version_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

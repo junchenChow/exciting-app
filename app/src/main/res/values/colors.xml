@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 纯白色 -->
+    <color name="white">#ffffffff</color>
+    <color name="tarnsparent_white_80">#80ffffff</color>
+    <color name="tarnsparent_white_90">#90ffffff</color>
+    <color name="layout_bg">#F0F0F0</color>
+
+    <!-- 各种灰色 -->
+    <color name="gray_read">#797979</color>
+    <color name="grey_28">#282828</color>
+    <color name="grey_36">#363636</color>
+    <color name="grey_48">#484848</color>
+    <color name="grey_4A">#4a4a4a</color>
+    <color name="gray_66">#666666</color>
+    <color name="gray_de">#dedede</color>
+    <color name="grey_97">#979797</color>
+    <color name="grey_a5">#a5a5a5</color>
+    <color name="grey_b9">#b9b9b9</color>
+    <color name="grey_b7">#b7b7b7</color>
+    <color name="grey_be">#ffbebebe</color>
+    <color name="grey_b7babb">#ffb7babb</color> <!-- LIST BORDER COLOR -->
+    <color name="gray_cbc4c6">#cbc4c6</color>
+    <color name="grey_cc">#cccccc</color>
+    <color name="grey_cd">#cdcdcd</color>
+    <color name="grey_cf">#ffCFCFCF</color>
+    <color name="grey_d0beb9">#d0beb9</color>
+    <color name="grey_d5">#D5D5D5</color>
+    <color name="grey_d7">#ffd7d7d7</color>
+    <color name="grey_d8">#d8d8d8</color> <!-- 图片预加载颜色 -->
+    <color name="grey_da">#dadada</color> <!-- 线条颜色 -->
+    <color name="grey_e5">#e5e5e5</color>
+    <color name="grey_e6">#e6e6e6</color>
+    <color name="grey_e8e3e3">#e8e3e3</color>
+    <color name="grey_eb">#ebebeb</color>
+    <color name="grey_efeff4">#efeff4</color>
+    <color name="grey_f3">#f3f3f3</color>
+    <color name="gray_f5f3f0">#f5f3f0</color>
+    <color name="grey_f5">#f5f5f5</color>
+    <color name="grey_fa">#FAFAFA</color>
+    <color name="gray_fc">#fffcfcfc</color> <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+
+
+    <color name="blue">#003299cc</color>
+    <color name="transparent">#00000000</color>  <!-- 透明 -->
+    <color name="transparent_50">#50000000</color>
+    <color name="transparent_11">#11000000</color>
+    <color name="transparent_1a">#1a000000</color>
+    <color name="transparent_44">#44000000</color>
+    <color name="transparent_77">#77000000</color>
+    <color name="transparent_99">#99000000</color>
+    <color name="transparent_85">#85000000</color>
+    <color name="transparent_bb">#BB000000</color>
+    <color name="black_10">#101010</color>
+    <color name="black">#ff000000</color>  <!-- 纯黑色 -->
+
+
+    <color name="yellow_ffe973">#FFE973</color>
+    <color name="yellow_ffde2a">#FFDE2A</color>
+    <color name="yellow_ffde600">#ffde60</color>
+    <color name="yellow_f8e71c">#f8e71c</color>
+    <color name="yellow_f4d541">#f4d541</color>
+    <color name="yellow_ccba5c">#CCBA5C</color>
+    <color name="yellow_e5d167">#e5d167</color>
+    <color name="yellow_b7a752">#b7a752</color>
+    <color name="yellow_fb9b01">#fb9b01</color>
+
+
+    <!-- 主题颜色 -->
+    <color name="selected_text_color">#8056e1</color>
+    <color name="select_photo_selected_bg_color">#888056e1</color>
+    <color name="clip_photo_num_text_color">#8056e1</color>
+    <color name="common_btn_background">#8056E1</color>
+
+    <color name="purple">#8056E1</color>
+    <color name="purple_8877ee">#8877EE</color>
+    <color name="purple_6d5fbe">#6d5fbe</color>
+    <color name="common_btn_background_press">#593C9D</color>
+
+    <color name="common_btn_selectphoto">#489AE3</color>
+    <color name="actionbar_background_end">#27408B</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="material_blue_500">#5677fc</color>
+
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+    <color name="dark_red">#F4511E</color>
+    <color name="accent_red">#FF5722</color>
+    <color name="pink">#ff5d65</color>
+    <color name="red_light_f0625e">#f0625e</color>
+    <color name="red">#FF0000</color>
+    <color name="dialog_title">#ffff0000</color>
+    <color name="yellow_title">#fb8741</color>
+
+    <bool name="default_circle_indicator_centered">true</bool>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+
+    <dimen name="default_line_indicator_line_width">12dp</dimen>
+    <dimen name="default_line_indicator_gap_width">4dp</dimen>
+    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <bool name="default_line_indicator_centered">true</bool>
+
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <integer name="default_title_indicator_line_position">0</integer>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+
+    <bool name="default_underline_indicator_fades">true</bool>
+    <integer name="default_underline_indicator_fade_delay">300</integer>
+    <integer name="default_underline_indicator_fade_length">400</integer>
+    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
+    <color name="search_dialog">#303030</color>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="highlight">#f3f3f3</color>
+
+</resources>
