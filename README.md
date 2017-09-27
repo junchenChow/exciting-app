@@ -5,17 +5,17 @@ Use Retrofit2 & RxJava, Dagger2 together with a Clean Architecture.
 
 ## Core frame
 ```
-gif---
+gif(packge)
   gif_vo
-   GifBean
-   GifMinutes
-helper---
-   AnimatedGifEncoder
-   LZWEncoder
-   NeuQuant
-GifMergeHelper
-MergeFactory
-MergeService
+    GifBean
+    GifMinutes
+  helper
+    AnimatedGifEncoder
+    LZWEncoder
+    NeuQuant
+  GifMergeHelper
+  MergeFactory
+  MergeService
 ```
 
 ## About this project
