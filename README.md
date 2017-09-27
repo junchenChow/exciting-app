@@ -18,7 +18,7 @@ gif(packge)
 ├──MergeService.java
 ```
 ## Synthetic Usage
-# Step1(Use java)
+#### Step 1(Use java)
 ```java
 static void encodeForJava(List<GifMinutes> pic, String newPic) {
         try {
@@ -47,7 +47,7 @@ static void encodeForJava(List<GifMinutes> pic, String newPic) {
     }
 ```
 
-# Step2(Use C)
+#### Step 2(Use C)
 ```java
     static {
         System.loadLibrary("gifflen");
