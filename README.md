@@ -4,6 +4,7 @@
 Use Retrofit2 & RxJava, Dagger2 together with a Clean Architecture.
 
 ## Core frame
+```
 gif---
   gif_vo
    GifBean
@@ -15,6 +16,7 @@ helper---
 GifMergeHelper
 MergeFactory
 MergeService
+```
 
 ## About this project
 以前做的一个小项目, 算是属于一个简单的工具类型的app。<br/>
