@@ -3,6 +3,19 @@
 
 Use Retrofit2 & RxJava, Dagger2 together with a Clean Architecture.
 
+## Core frame
+gif---
+  gif_vo
+   GifBean
+   GifMinutes
+helper---
+   AnimatedGifEncoder
+   LZWEncoder
+   NeuQuant
+GifMergeHelper
+MergeFactory
+MergeService
+
 ## About this project
 以前做的一个小项目, 算是属于一个简单的工具类型的app。<br/>
 可以使用语音、文字输入、或者直接摇一摇, 获取到的图片资源都是自动匹配的。<br/>
